@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.thirdhome.space/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.loyagami.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://www.thirdhome.space/post-sitemap.xml</loc>
+		<loc>https://www.loyagami.com/post-sitemap.xml</loc>
 		<lastmod>2021-12-24T11:06:37+07:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.thirdhome.space/page-sitemap.xml</loc>
-		<lastmod>2022-02-05T21:28:49+07:00</lastmod>
+		<loc>https://www.loyagami.com/page-sitemap.xml</loc>
+		<lastmod>2023-01-18T18:46:17+07:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.thirdhome.space/portfolio-sitemap.xml</loc>
+		<loc>https://www.loyagami.com/portfolio-sitemap.xml</loc>
 		<lastmod>2020-09-23T18:40:44+07:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.thirdhome.space/category-sitemap.xml</loc>
+		<loc>https://www.loyagami.com/category-sitemap.xml</loc>
 		<lastmod>2021-12-24T11:06:37+07:00</lastmod>
 	</sitemap>
 </sitemapindex>

@@ -118,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="https://www.thirdhome.space/sitemap_index.xml">&#8592; Index Peta Situs</a>							</p>
+								<a href="https://www.loyagami.com/sitemap_index.xml">&#8592; Index Peta Situs</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -213,7 +213,7 @@
 									Peta Situs XML ini mengandung <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URL.								</p>
 
 								<p class="expl">
-									<a href="https://www.thirdhome.space/sitemap_index.xml">&#8592; Index Peta Situs</a>								</p>
+									<a href="https://www.loyagami.com/sitemap_index.xml">&#8592; Index Peta Situs</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 
