@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www2.loyagami.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www2.loyagami.com/konfigurator-untuk-area-retail-dan-komersial/</loc>
-		<lastmod>2022-02-05T21:28:49+07:00</lastmod>
+		<loc>https://www2.loyagami.com/</loc>
+		<lastmod>2023-01-23T12:52:43+07:00</lastmod>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2021/03/pexels-rachel-claire-4577421.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2021/05/pexels-sevenstorm-juhaszimrus-439416.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2020/09/eden-housing-thomas-heatherwick-studio-singapore_dezeen_2364_col_3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www2.loyagami.com/pra-kualifikasi-bagi-program-pembiayaan/</loc>
+		<lastmod>2023-01-23T13:03:01+07:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www2.loyagami.com/build-and-design-commercial-property/</loc>
-		<lastmod>2021-12-27T09:20:03+07:00</lastmod>
+		<lastmod>2023-01-23T12:57:18+07:00</lastmod>
 		<image:image>
 			<image:loc>https://www2.loyagami.com/wp-content/uploads/2021/12/AWR11-min.jpg</image:loc>
 		</image:image>
@@ -73,6 +86,23 @@
 		<image:image>
 			<image:loc>https://i.imgur.com/ikI9OL8.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://www2.loyagami.com/en/welcome-to-loyagami/</loc>
+		<lastmod>2023-01-18T18:46:17+07:00</lastmod>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2021/03/pexels-rachel-claire-4577421.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2021/05/pexels-sevenstorm-juhaszimrus-439416.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www2.loyagami.com/wp-content/uploads/2020/09/eden-housing-thomas-heatherwick-studio-singapore_dezeen_2364_col_3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www2.loyagami.com/konfigurator-untuk-area-retail-dan-komersial/</loc>
+		<lastmod>2022-02-05T21:28:49+07:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www2.loyagami.com/en/optimization-of-commercial-areas/</loc>
@@ -391,10 +421,6 @@
 		<image:image>
 			<image:loc>https://www2.loyagami.com/wp-content/uploads/2020/06/beachwalk-shopping-mall-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www2.loyagami.com/pra-kualifikasi-bagi-program-pembiayaan/</loc>
-		<lastmod>2021-10-21T12:10:23+07:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www2.loyagami.com/en/our-business/</loc>
