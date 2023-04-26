@@ -1071,7 +1071,7 @@ a {
   font-weight: 900;
   line-height: 1.2em;
   letter-spacing: 2rem;
-  padding: 2.4rem;
+  padding: -1.2rem;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -1083,7 +1083,7 @@ a {
     font-weight: 500;
     line-height: 1em;
     letter-spacing: -0.1rem;
-    padding: 2.4rem;
+    padding: -1.2rem;
   }
 }
 .cid-BuyEp4f9UW .mbr-section-title {
